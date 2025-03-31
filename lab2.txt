@@ -1,0 +1,17 @@
+hola mundo
+
+
+
+//////
+local  cread editar modificar elimnar cread barches 
+///////   git add
+""stage ""
+modificado creado elimnado 
+///// commit  
+
+modificado creado elimnado
+
+/// server
+github
+modificado creado elimnado
+ 
